@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[3]:
-
-
 import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib.colors import ListedColormap
